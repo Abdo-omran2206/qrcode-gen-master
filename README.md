@@ -19,7 +19,7 @@ A modern, responsive QR code generator built with Next.js and React. Create beau
 
 ## 🚀 Live Demo
 
-Visit the live application: [QR Code Gen Master](https://qrcode-gen-master.vercel.app)
+Visit the live application: [QR Code Gen Master](https://qrcode-gen-master.netlify.app/)
 
 ## 🛠️ Technologies Used
 
